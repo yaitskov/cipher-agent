@@ -1,0 +1,6 @@
+{
+   "master": "p1",
+   "profiles": { "p1": { "password": "hello world! 123",
+                         "algorithm": "AES/CBC/PKCS5PADDING" }
+   }
+}

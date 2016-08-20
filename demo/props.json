@@ -1,0 +1,8 @@
+{
+   "master": "p2",
+   "profiles": { "p1": { "password": "hello world! 123",
+                         "algorithm": "AES/CBC/PKCS5PADDING" },
+                 "p2": { "password": "HELLO WORLD! 123",
+                         "algorithm": "AES/CBC/PKCS5PADDING" }
+   }
+}
